@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(98, 119, 146, 0.911);
+}
+a{
+    color: rgba(4, 4, 95, 0.753);
+}
+#links{
+    background-color: rgba(68, 0, 255, 0.301);
+    text-align: center;
+}
+#links:nth-child(odd){
+    text-align: left;
+}
+#links:last-child{
+    text-align: right;
+}
+a:hover{
+    color: coral;
+}
+#nome:focus{
+    border: 5px solid blue;
+    border-radius: 2px;
+    box-shadow: 5px 10px grey;
+    width: 250px;
+}
+
+#check:focus{
+    color: aqua;
+}
+
