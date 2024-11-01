@@ -1,0 +1,36 @@
+/* Q1 - Agrupamento seletores de tags */
+h1,h2,h3 {
+    color: blue;
+    font-family: Arial, sans-serif;
+} 
+
+
+/* Agrupamento seletores de classes
+.card, .button{
+    background-color: blue;
+}
+*/
+
+/* Agrupamento seletores de ID's
+#footer, #vfhdh{
+    font: ;
+}
+*/
+
+/* Selector de descendentes
+nav ul il {
+    list-style-type: none;
+} 
+*/
+
+/* Selector de classe e tag
+button.primary {
+    color: blue;
+}
+*/
+
+/* Selector filho direito
+div > p {
+    color: red;
+}
+*/
